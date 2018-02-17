@@ -6,9 +6,9 @@ namespace RisingEmirpNumbersPuzzle {
     public static class PrimeNumber {
 
         static long[] seedPrimes = {
-      /*1,2,3,4, 5, 6, 7  8, 9,10,11,12,13,14,15,*/
-        2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97
-    };
+          /*1,2,3,4, 5, 6, 7  8, 9,10,11,12,13,14,15,... */
+            2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97
+        };
 
         public static bool IsPrime(long num) {
             if (num == 1)
