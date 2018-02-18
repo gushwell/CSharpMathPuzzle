@@ -1,20 +1,25 @@
 # CSharpMathPuzzle
 C#で解く数学パズルの数々
 
-## RisingEmirpNumbersPuzzle : エマープでかつ上昇数を求める
+### RisingEmirpNumbersPuzzle : エマープでかつ上昇数を求める
 
 素数を逆転させた数もまた素数である自然数のことを 「エマープ(Emirp)」と言います。
 1479のように、左から右へどんどん大きな数字になってゆく数を「上昇数」と呼びます。
 このエマープかつ上昇数を求めています。
 
+### NParasiticNumberPuzzle : N-Parastic Number (N寄生数)を求める
 
-## NParasiticNumberPuzzle : N-Parastic Number (N寄生数)を求める
-
-ある正の整数 A を N(1<=N<=9)倍した値と、Aを右へ一桁分ローテートシフトした値が等しい数を「N-Parastic Number」と言います。 
-例えば、N=4 の時、102564 は `102564 * 4 = 410256`となり、N-Parastic Numberとなります。
+N-Parastic Numberを求めてください。
+N-Parastic Number: ある正の整数 A を N(1<=N<=9)倍した値と、Aを右へ一桁分ローテートシフトした値が等しい数。例えば、N=4 の時、102564 は `102564 * 4 = 410256`となり、N-Parastic Numberとなります。
 
 
-## CyclicNumberPuzzle : N倍すると巡回する自然数を求める
+### CyclicNumberPuzzle : N倍すると巡回する自然数を求める
 
 n倍して桁が巡回する自然数を求めてください。 nは、2 <= n <= 9 とします。この時の自然数を巡回数と言います。
 例えば、1234の場合は、2倍した値が、2341, 3412, 4123 のいずれかになれば、巡回すると言えます。実際には、2倍した値は2468なので、巡回はしません。
+
+
+### PalindromicSquarePuzzle : 二乗して回文となる非回文数を求める
+
+二乗すると回文数となる数で、二乗する前の数が回文でない正の整数を求める。
+回文数とは、21512 のように、逆から読んでも同じ数になる数字のことです。
