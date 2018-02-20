@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicSquarePuzzle", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigitReverseNumberPuzzle", "FourDigitReverseNumberPuzzle\FourDigitReverseNumberPuzzle.csproj", "{98393E20-C8E7-4684-BF64-05C9113327B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomachiPuzzle", "KomachiPuzzle\KomachiPuzzle.csproj", "{2A54CB57-640B-4F2B-8830-EB43FA509C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{98393E20-C8E7-4684-BF64-05C9113327B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98393E20-C8E7-4684-BF64-05C9113327B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98393E20-C8E7-4684-BF64-05C9113327B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A54CB57-640B-4F2B-8830-EB43FA509C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A54CB57-640B-4F2B-8830-EB43FA509C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A54CB57-640B-4F2B-8830-EB43FA509C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A54CB57-640B-4F2B-8830-EB43FA509C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
