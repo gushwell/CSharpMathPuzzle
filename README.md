@@ -5,7 +5,7 @@ C#で解く数学パズルの数々
 
 以下のような５つの円に1-9までの数を入れ、どの円の中も合計すると同じ数になるように、数を埋めるというパズルです。左右の円は２つの合計、それ以外は3つの合計です。
 
-![](images/komachiRing.png)
+![](https://github.com/gushwell/CSharpMathPuzzle/blob/master/Images/komachiRing.png)
 
 
 ### KomachiPuzzle : LINQで組み合わせを列挙して小町算を解く
