@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{277C36
 		Images\komachiRing.png = Images\komachiRing.png
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komachi3ExpPuzzle", "Komachi3ExpPuzzle\Komachi3ExpPuzzle.csproj", "{313FE149-529C-49F8-BD47-13CF93000299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,10 @@ Global
 		{283255D3-A6E1-45F4-9512-87147019C624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283255D3-A6E1-45F4-9512-87147019C624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283255D3-A6E1-45F4-9512-87147019C624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313FE149-529C-49F8-BD47-13CF93000299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313FE149-529C-49F8-BD47-13CF93000299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313FE149-529C-49F8-BD47-13CF93000299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313FE149-529C-49F8-BD47-13CF93000299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
