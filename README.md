@@ -1,6 +1,8 @@
 # CSharpMathPuzzle
 C#で解く数学パズルの数々
 
+[Qiita](https://qiita.com/gushwell)に掲載した数学パズルのソースコードを公開しています。
+
 
 ### KomachiFactorizationPuzzle : 素因数分解した結果が小町になる数を求める
 
