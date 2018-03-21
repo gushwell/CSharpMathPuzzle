@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomachiSquarePuzzle", "Koma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomachiFactorizationPuzzle", "KomachiFactorizationPuzzle\KomachiFactorizationPuzzle.csproj", "{FD82BA56-DE15-4F9E-9320-2E14DD9CFB2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyPuzzle", "CenturyPuzzle\CenturyPuzzle.csproj", "{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,10 @@ Global
 		{FD82BA56-DE15-4F9E-9320-2E14DD9CFB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD82BA56-DE15-4F9E-9320-2E14DD9CFB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD82BA56-DE15-4F9E-9320-2E14DD9CFB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
