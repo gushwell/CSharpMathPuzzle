@@ -3,6 +3,10 @@ C#で解く数学パズルの数々
 
 [Qiita](https://qiita.com/gushwell)に掲載した数学パズルのソースコードを公開しています。
 
+### CenturyPuzzle : センチュリーパズル (西洋小町)
+
+1～9までの数字を1回だけ使って帯分数をつくり、その値が100を表すようにするパズルです。
+
 
 ### KomachiFactorizationPuzzle : 素因数分解した結果が小町になる数を求める
 
