@@ -24,6 +24,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{277C36FE-6C41-4021-B0A5-8B1FE35B6280}"
 	ProjectSection(SolutionItems) = preProject
 		Images\komachiRing.png = Images\komachiRing.png
+		Images\Triangle15Puzzle.png = Images\Triangle15Puzzle.png
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komachi3ExpPuzzle", "Komachi3ExpPuzzle\Komachi3ExpPuzzle.csproj", "{313FE149-529C-49F8-BD47-13CF93000299}"
@@ -33,6 +34,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomachiFactorizationPuzzle", "KomachiFactorizationPuzzle\KomachiFactorizationPuzzle.csproj", "{FD82BA56-DE15-4F9E-9320-2E14DD9CFB2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyPuzzle", "CenturyPuzzle\CenturyPuzzle.csproj", "{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle15Puzzle", "Triangle15Puzzle\Triangle15Puzzle.csproj", "{9B275730-DDAF-46D4-9B59-0704062C8108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -84,6 +87,10 @@ Global
 		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1A25BE-DEE4-4F49-889B-CBCF2278A01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B275730-DDAF-46D4-9B59-0704062C8108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B275730-DDAF-46D4-9B59-0704062C8108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B275730-DDAF-46D4-9B59-0704062C8108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B275730-DDAF-46D4-9B59-0704062C8108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
