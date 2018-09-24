@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle15Puzzle", "Triangl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteinhausTrianglePuzzle", "SteinhausTrianglePuzzle\SteinhausTrianglePuzzle.csproj", "{94D0353D-C92C-4EC0-ACAE-612996245F68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingNumberGcdPuzzle", "RingNumberGcdPuzzle\RingNumberGcdPuzzle.csproj", "{C31DA183-5898-45F0-91C7-5AD0F2711451}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{94D0353D-C92C-4EC0-ACAE-612996245F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D0353D-C92C-4EC0-ACAE-612996245F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D0353D-C92C-4EC0-ACAE-612996245F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31DA183-5898-45F0-91C7-5AD0F2711451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31DA183-5898-45F0-91C7-5AD0F2711451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31DA183-5898-45F0-91C7-5AD0F2711451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31DA183-5898-45F0-91C7-5AD0F2711451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
