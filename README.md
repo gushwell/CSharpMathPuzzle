@@ -31,7 +31,7 @@ Roslynを使って動的に作成したC#のコードをコンパイルするこ
 ![](https://github.com/gushwell/CSharpMathPuzzle/blob/master/Images/komachiRing.png)
 
 
-### KomachiSquarePuzzle : 2乗した数値小町になる数
+### KomachiSquarePuzzle : 2乗した数値が小町になる数
 
 3桁の数値とその数値を２乗した値の各数字が１から9までのすべての数字で構成されるような３桁の数値をすべて求める。
 
