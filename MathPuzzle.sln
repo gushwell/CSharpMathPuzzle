@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomachiUnitFraction", "Koma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PennyFlippingProblemPuzzle", "PennyFlippingProblemPuzzle\PennyFlippingProblemPuzzle.csproj", "{FEA6D979-D525-4CFD-A545-0F927F87E87E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPlaceSolver", "NumberPlaceSolver\NumberPlaceSolver.csproj", "{B582654D-C7E5-44C6-A35C-80FB4707C8E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicStarPuzzle", "MagicStarPuzzle\MagicStarPuzzle.csproj", "{541E03E8-A7F7-4F40-9D90-452504542866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +119,14 @@ Global
 		{FEA6D979-D525-4CFD-A545-0F927F87E87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA6D979-D525-4CFD-A545-0F927F87E87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA6D979-D525-4CFD-A545-0F927F87E87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B582654D-C7E5-44C6-A35C-80FB4707C8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B582654D-C7E5-44C6-A35C-80FB4707C8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B582654D-C7E5-44C6-A35C-80FB4707C8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B582654D-C7E5-44C6-A35C-80FB4707C8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541E03E8-A7F7-4F40-9D90-452504542866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541E03E8-A7F7-4F40-9D90-452504542866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541E03E8-A7F7-4F40-9D90-452504542866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541E03E8-A7F7-4F40-9D90-452504542866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
