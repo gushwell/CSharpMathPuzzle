@@ -61,10 +61,6 @@ Roslynを使って動的に作成したC#のコードをコンパイルするこ
 N-Parastic Numberを求めてください。
 N-Parastic Number: ある正の整数 A を N(1<=N<=9)倍した値と、Aを右へ一桁分ローテートシフトした値が等しい数。例えば、N=4 の時、102564 は `102564 * 4 = 410256`となり、N-Parastic Numberとなります。
 
-### NumberPlaceSolver
-
-ナンプレ(数独)を解くプログラムです。
-
 ### PalindromicSquarePuzzle : 二乗して回文となる非回文数を求める
 
 二乗すると回文数となる数で、二乗する前の数が回文でない正の整数を求める。
